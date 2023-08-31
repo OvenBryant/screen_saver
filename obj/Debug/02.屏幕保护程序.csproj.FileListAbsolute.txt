@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\CSharp知识点及代码\CSharp 动画\Code\02.屏幕保护程序\bin\Debug\02.屏幕保护程序.exe.config
+C:\Users\Administrator\Desktop\CSharp知识点及代码\CSharp 动画\Code\02.屏幕保护程序\bin\Debug\02.屏幕保护程序.exe
+C:\Users\Administrator\Desktop\CSharp知识点及代码\CSharp 动画\Code\02.屏幕保护程序\bin\Debug\02.屏幕保护程序.pdb
+C:\Users\Administrator\Desktop\CSharp知识点及代码\CSharp 动画\Code\02.屏幕保护程序\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\CSharp知识点及代码\CSharp 动画\Code\02.屏幕保护程序\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\CSharp知识点及代码\CSharp 动画\Code\02.屏幕保护程序\obj\Debug\02.屏幕保护程序_MarkupCompile.cache
+C:\Users\Administrator\Desktop\CSharp知识点及代码\CSharp 动画\Code\02.屏幕保护程序\obj\Debug\02.屏幕保护程序_MarkupCompile.lref
+C:\Users\Administrator\Desktop\CSharp知识点及代码\CSharp 动画\Code\02.屏幕保护程序\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\CSharp知识点及代码\CSharp 动画\Code\02.屏幕保护程序\obj\Debug\02.屏幕保护程序.g.resources
+C:\Users\Administrator\Desktop\CSharp知识点及代码\CSharp 动画\Code\02.屏幕保护程序\obj\Debug\_02.屏幕保护程序.Properties.Resources.resources
+C:\Users\Administrator\Desktop\CSharp知识点及代码\CSharp 动画\Code\02.屏幕保护程序\obj\Debug\02.屏幕保护程序.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\CSharp知识点及代码\CSharp 动画\Code\02.屏幕保护程序\obj\Debug\02.屏幕保护程序.exe
+C:\Users\Administrator\Desktop\CSharp知识点及代码\CSharp 动画\Code\02.屏幕保护程序\obj\Debug\02.屏幕保护程序.pdb
+C:\Users\Administrator\Desktop\CSharp知识点及代码\CSharp 动画\Code\02.屏幕保护程序\obj\Debug\02.屏幕保护程序.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CSharp知识点及代码\CSharp 动画\Code\02.屏幕保护程序\obj\Debug\02.屏幕保护程序.csprojAssemblyReference.cache
